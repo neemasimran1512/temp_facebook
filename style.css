@@ -1,0 +1,41 @@
+ .header
+    {
+    	border: 2px;
+    	background-color: darkblue;
+    	width: 1285px;
+    	height: 120px;
+    	position:relative;
+    	top: 0px;
+    	left: 0px;
+    }
+   .header div h1
+   {
+   	color:white;
+   }
+   .header div
+   {
+   	 position: absolute;
+   	 top: 25px;
+   	 left: 100px;
+   }
+   .left
+   {
+   	border: 2px;
+   	background-color:white;
+   	width: 643px;
+   	height: 700px;
+   	position: absolute;
+   	top:300px 
+   	left:0px;
+   }
+   .right
+   {
+   	 border:2px;
+   	 background-color:white;
+   	 width: 643px;
+   	 height: 700px;
+   	 position: absolute;
+   	 top: 127px;
+   	 left: 650px;
+   }
+  
